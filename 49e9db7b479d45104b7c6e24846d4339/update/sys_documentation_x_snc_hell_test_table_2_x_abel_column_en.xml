@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_abel_column" label="Abel column" language="en" table="x_snc_hell_test_table_2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_abel_column</element>
+            <help/>
+            <hint/>
+            <label>Abel column</label>
+            <language>en</language>
+            <name>x_snc_hell_test_table_2</name>
+            <plural>Abel columns</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2022-06-20 05:11:08</sys_created_on>
+            <sys_id>3a79a88447185110d3052782846d4317</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Abel column</sys_name>
+            <sys_package display_value="HelloWorld" source="x_snc_hell">49e9db7b479d45104b7c6e24846d4339</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HelloWorld">49e9db7b479d45104b7c6e24846d4339</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_hell_test_table_2_x_abel_column_en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2022-06-20 05:11:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

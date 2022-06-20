@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>sys_updated_on</col_name_string>
+        <index_col_name element="sys_updated_on" name="cmdb">a8be56eea5300110c0a0e1db2cdc958c</index_col_name>
+        <logical_table_name>cmdb</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-03-16 16:53:20</sys_created_on>
+        <sys_id>e0917c99471e89104c05f067746d431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb</sys_name>
+        <sys_package display_value="HelloWorld" source="x_snc_hell">49e9db7b479d45104b7c6e24846d4339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">49e9db7b479d45104b7c6e24846d4339</sys_scope>
+        <sys_update_name>sys_index_cmdb_sys_updated_on</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-03-16 16:53:20</sys_updated_on>
+        <table display_value="Base Configuration Item" name="cmdb">60be56eea5300110c0a0e1db2cdc9559</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>
