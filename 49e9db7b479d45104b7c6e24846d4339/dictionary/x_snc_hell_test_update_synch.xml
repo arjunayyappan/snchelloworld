@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="cb29c2ca4735dd104b7c6e24846d43d3" extends="sys_metadata" label="test update synch" max_length="40" name="x_snc_hell_test_update_synch" type="collection">
+        <element label="Token" max_length="40" name="token" type="string"/>
+        <element label="Username" max_length="40" name="username" type="string"/>
+    </element>
+</database>
