@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Testing migration of report using group by">08db3a0b87fc9e10344bddb83cbb3556</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>arjun.ayyappan@snc</sys_created_by>
+        <sys_created_on>2024-09-27 04:48:16</sys_created_on>
+        <sys_id>8cdb3a0b87fc9e10344bddb83cbb3556</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>08db3a0b87fc9e10344bddb83cbb3556</sys_name>
+        <sys_package display_value="HelloWorld" source="x_snc_hell">49e9db7b479d45104b7c6e24846d4339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">49e9db7b479d45104b7c6e24846d4339</sys_scope>
+        <sys_update_name>sys_report_users_groups_8cdb3a0b87fc9e10344bddb83cbb3556</sys_update_name>
+        <sys_updated_by>arjun.ayyappan@snc</sys_updated_by>
+        <sys_updated_on>2024-09-27 04:48:16</sys_updated_on>
+        <user_id display_value="">arjun.ayyappan@snc</user_id>
+    </sys_report_users_groups>
+</record_update>
