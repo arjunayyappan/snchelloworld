@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes/>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>POST</http_method>
+        <name>Test ECMA</name>
+        <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+var b = new GlideDateTime();
+gs.info(b instanceof GlideDateTime);
+
+})(request, response);]]></operation_script>
+        <operation_uri/>
+        <produces/>
+        <produces_customized>false</produces_customized>
+        <relative_path>/</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>arjun.ayyappan@snc</sys_created_by>
+        <sys_created_on>2024-09-30 05:11:18</sys_created_on>
+        <sys_id>08bd1e448709d250344bddb83cbb35dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test ECMA</sys_name>
+        <sys_package display_value="HelloWorld" source="x_snc_hell">49e9db7b479d45104b7c6e24846d4339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HelloWorld">49e9db7b479d45104b7c6e24846d4339</sys_scope>
+        <sys_update_name>sys_ws_operation_08bd1e448709d250344bddb83cbb35dc</sys_update_name>
+        <sys_updated_by>arjun.ayyappan@snc</sys_updated_by>
+        <sys_updated_on>2024-09-30 05:11:18</sys_updated_on>
+        <web_service_definition/>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>
